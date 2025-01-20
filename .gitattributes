@@ -1,1 +1,2 @@
-* linguist-generated=true
+* linguist-vendored
+*.js linguist-vendored=true
