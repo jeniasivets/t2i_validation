@@ -33,9 +33,9 @@ repo/
 │
 ├── results/                # contains csv files with computed scores / performance metrics
 ├── data/                   # contains original images and prompts
-├── tests/                  # inference tests
+├── tests/                  # validation tests
 ├── validation/             #
-├── metrics_analysis.ipynb  # notebook with visualization  
+├── notebooks/              # metrics analysis & visualization
 │
 ├── README.md               
 ```
