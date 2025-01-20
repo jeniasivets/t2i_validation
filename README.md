@@ -57,3 +57,4 @@ BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and
 Evaluating Text-to-Visual Generation with Image-to-Text Generation. ECCV (9) 2024: 366-384
 
 [4] Hartwig, Sebastian, et al. "Evaluating Text to Image Synthesis: Survey and Taxonomy of Image Quality Metrics." arXiv preprint arXiv:2403.11821 (2024).
+
